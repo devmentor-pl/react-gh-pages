@@ -13,11 +13,11 @@ function App() {
             <small>v{process.env.REACT_APP_VERSION}</small></p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://devmentor.pl"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with <a href="https://devmentor.pl">devmentor.pl</a>
+          Learn React with devmentor.pl
         </a>
 
       </header>
