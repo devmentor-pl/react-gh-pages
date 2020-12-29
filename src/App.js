@@ -9,14 +9,15 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p><small>v{process.env.REACT_APP_VERSION}</small></p>
+        <p>
+            <small>v{process.env.REACT_APP_VERSION}</small></p>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React with <a href="https://devmentor.pl">devmentor.pl</a>
         </a>
 
       </header>
